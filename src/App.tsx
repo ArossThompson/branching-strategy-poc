@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          New copy text
+          Newer copy text that is now correct
         </p>
       </div>
       <p className="read-the-docs">
